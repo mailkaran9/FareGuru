@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FareGuru</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, HelloGoogleMaps!</string>
+ 
+ <string name="mapskey">AIzaSyA1oelRlHLJS28NpL-tqBVeQ47QArtrGhY</string>
+</resources>

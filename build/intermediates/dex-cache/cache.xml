@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Karan\AndroidStudioProjects\Gmap1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Karan\AndroidStudioProjects\Gmap1\app\build\intermediates\pre-dexed\release\classes-1716ecf37f9ca3c9158da3c0b25bb596706e7aa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Karan\AndroidStudioProjects\Gmap1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\Karan\AndroidStudioProjects\Gmap1\app\build\intermediates\pre-dexed\release\classes-407913962a698f3eb0f84c5b21766136da415a87.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Karan\AndroidStudioProjects\Gmap1\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-be220b38eb335326b6406b05fa5b60644c539549.jar" />
+    </item>
+
+</items>
